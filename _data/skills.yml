@@ -1,0 +1,24 @@
+languages:
+  - item: Java
+  - item: Javascript
+  - item: Python
+  - item: C++
+  - item: SQL
+
+frameworks and Libraries:
+  - item: Node.js
+  - item: Express.js
+  - item: Socket.IO
+  - item: Numpy
+  - item: Pandas
+
+tools:
+  - item: Git & Github
+  - item: Postman
+  - item: VS Code
+  - item: Docker
+  - item: Jupyter Notebook
+
+Operating Systems:
+  -item: Windows
+  -item: Ubuntu

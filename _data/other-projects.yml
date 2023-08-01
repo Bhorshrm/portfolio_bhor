@@ -1,0 +1,37 @@
+
+- name: Scraping Twitter, Reddit and Instagram | Freelance
+  url: https://github.com/bchiang7/Surf-Videos
+  code: 
+  description: Built a scraping bot that will scrape all the platforms based on provided Hashtag, preprocess the data.
+  used:
+    - thing: Python
+    - thing: Request API
+
+
+- name: LetsChat
+  url: https://realtime-chat-app-three-xi.vercel.app
+  code: 
+  description: This is a scalable real-time chat app made using Socket.IO library where multiple-users can chat at same time.If a new user joins,users will get a simple non-group message without the ability to identify other recipients
+  used:
+    - thing: HTML, CSS, JavaScript
+    - thing: NodeJS, Socket.IO
+    - thing: Web development
+
+- name: WebX
+  url: https://playful-mochi-361ef0.netlify.app
+  code: 
+  description: Constructed a React-based web editor for HTML/CSS and JavaScript.Employed the Ace-Editor to emulate an integrated development environment, complete with a sleek and sophisticated appearance.
+  used:
+    - thing: HTML, CSS, JavaScript
+    - thing: ReactJS,NodeJS,Ace-Editor
+    - thing: Web development
+
+- name: OrganizationEmployee_Microservice
+  url: https://github.com/bhor123/OrganizationEmployee_Microservice
+  code: 
+  description: A Microservice to maintain Employee and it's organization's Information.
+  used:
+    - thing: Java
+    - thing: Request API
+
+
